@@ -1,4 +1,4 @@
-# Classify MNIST in TensorFlow
+# Classify MNIST by FNN in TensorFlow
 
 # Setup
 pip3 install image
